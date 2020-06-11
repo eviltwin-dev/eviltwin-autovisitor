@@ -6,7 +6,7 @@
 ## How To Run :
  
  <p align="center">
- <img width="50%" src="images/20200426_132127.jpg"/>
+ <img width="50%" src="images/20200611_111650.jpg"/>
  </p><br>
  
  - This tool is useful for adding visitors to your blog and for increasing your blog's statistics.
